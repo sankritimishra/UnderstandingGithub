@@ -1,2 +1,2 @@
 # UnderstandingGithub
-I am learning how to work with git commands ,so I am making this&lt;3
+I am learning how to work with github ,so I am making this&lt;3
